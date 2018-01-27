@@ -13,23 +13,3 @@
 /*----------------------------------------------
     S T Y L E S
 ------------------------------------------------*/
-body{
-	display: flex;
-}
-.content{
-	display: flex;
-	flex-direction: row;
-}
-aside{
-	flex:display;
-	flex-direction: column;
-}
-nav{
-	background: blue;
-}
-footer{
-	 width: 100%;
-	 display: flex;
-	 justify-content: center;
-	 background:
- }
