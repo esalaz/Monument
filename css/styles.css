@@ -13,28 +13,76 @@
 /*----------------------------------------------
     S T Y L E S
 ------------------------------------------------*/
-nav{
-	width:100%;
-}
-nav li{
-	display: inline;
-}
-li a{
-	font-family: Lato,serif, sans-serif;
-	text-decoration: none;
-}
+/* Global Attribues*/
 p, h2, h3{
 	font-family: Lato,serif, sans-serif;
 }
 h1{
 	font-family: Raleway, serif, sans-serif;
 }
-a{
+	/*----------------------------------------------
+	    NAV
+	------------------------------------------------*/
+/*
+this is helpful for visually watching your element when playing with the console
+border-style: solid;
+border-width: thin;
+*/
+nav{
+	width:100%;
+	border-style: solid;
+	border-width: thin;
+}
+nav li{
+	display: inline;
 
 }
+li a{
+	font-family: Lato,serif, sans-serif;
+	text-decoration: none;
+	border-style: solid;
+	border-width: thin;
+}
+
+/*----------------------------------------------
+  HEADER
+------------------------------------------------*/
+header{
+
+}
+.header-text{
+
+}
+/*----------------------------------------------
+  MAIN
+------------------------------------------------*/
+main{
+
+}
+
 main h1{
 	text-align: center;
 }
+main section{
+
+}
+/*----------------------------------------------
+  ABOUT
+------------------------------------------------*/
 .about{
 	background: blue;
 }
+
+/*----------------------------------------------
+  GALLERY
+------------------------------------------------*/
+
+
+/*----------------------------------------------
+	FORMS
+------------------------------------------------*/
+
+
+/*----------------------------------------------
+  FOOTER
+------------------------------------------------*/
