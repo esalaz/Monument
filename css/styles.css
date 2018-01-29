@@ -13,3 +13,28 @@
 /*----------------------------------------------
     S T Y L E S
 ------------------------------------------------*/
+nav{
+	width:100%;
+}
+nav li{
+	display: inline;
+}
+li a{
+	font-family: Lato,serif, sans-serif;
+	text-decoration: none;
+}
+p, h2, h3{
+	font-family: Lato,serif, sans-serif;
+}
+h1{
+	font-family: Raleway, serif, sans-serif;
+}
+a{
+
+}
+main h1{
+	text-align: center;
+}
+.about{
+	background: blue;
+}
